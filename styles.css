@@ -1,6 +1,6 @@
 .loader {
-    width: 90px;
-    height: 90px;
+    width: 1000px;
+    height: 1000px;
     border-radius: 50%;
     position: relative;
     animation: rotate 1s linear infinite
